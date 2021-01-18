@@ -1,4 +1,4 @@
-# The-Really-Simple-Calculator
+# The Really Simple Calculator
 Just a simple calculator made in Javascript.
 
 Using html, css and Javascript.
